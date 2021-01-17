@@ -367,19 +367,19 @@ img {
 }
 
 .skills__html {
-  width: 80%;
+  width: 100%;
 }
 
 .skills__js {
-  width: 90%;
+  width: 100%;
 }
 
 .skills__react {
-  width: 70%;
+  width: 100%;
 }
 
 .skills__angular {
-  width: 60%;
+  width: 100%;
 }
 
 .skills__php {
@@ -395,7 +395,7 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 80%;
 }
 
 /* ===== EDUCATION =====*/
