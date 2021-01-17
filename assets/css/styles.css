@@ -554,7 +554,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: rgba(204, 75, 44, 0.7);
+  background: rgba(238, 251, 251, 0.7);
   border-radius: .5rem;
   transition: .3s;
 }
@@ -571,7 +571,7 @@ img {
 
 .works__title {
   font-size: var(--h2-font-size);
-  color: var(--first-color-lighten);
+  color: var(#007CC7);
 }
 
 /* ===== CONTACT =====*/
