@@ -11,9 +11,9 @@
   --font-bold: 700;
 
   /*===== Colors =====*/
-  --first-color:  #4DA8DA;
-  --first-color-dark: #007CC7;
-  --first-color-darken: #12232E;
+  --first-color:  #007CC7;
+  --first-color-dark: #12232E;
+  --first-color-darken: #203647;
   --text-color: #54423D;
   --first-color-light: #EAE7E6;
   --first-color-lighten: #FFFAFA;
@@ -216,7 +216,7 @@ img {
   padding-left: .8rem;
   width: 160px;
   height: 160px;
-  background-color: var(--first-color);
+  background-color: var(--first-color-lighten);
   border-radius: 50%;
   overflow: hidden;
   margin-bottom: var(--mb-2);
