@@ -610,7 +610,7 @@ img {
 
 .contact__subtitle {
   font-size: var(--h3-font-size);
-  color: var(--first-color-dark);
+  color: var(--first-color);
   margin-bottom: var(--mb-1);
 }
 
