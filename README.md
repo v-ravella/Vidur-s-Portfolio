@@ -7,6 +7,6 @@ Click on the https://v-ravella.github.io/Vidur-s-Portfolio/ to visit my portofli
 Please only use the contact me form for serious inquiries!
 
 
-This portfolio was created using a template made by Bedimcode
+This portfolio was created using a template made by Bedimcode.
 Bedimcode reserves all rights to the template.
 Follow their YouTube Channel here :https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ
