@@ -2,7 +2,7 @@ Hello!
 
 Welcome to my Portfolio!
 
-Click on the [link] to visit my portoflio and understand my skillset and interest. 
+Click on the https://v-ravella.github.io/Vidur-s-Portfolio/ to visit my portoflio and understand my skillset and interest. 
 
 Please only use the contact me form for serious inquiries!
 
