@@ -212,12 +212,12 @@ img {
 }
 
 .home__img {
-  padding-top: 1.3rem;
+  padding-top: .8rem;
   padding-left: .8rem;
   width: 160px;
   height: 160px;
   background-color: var(--first-color-lighten);
-  border-radius: 50%;
+  
   overflow: hidden;
   margin-bottom: var(--mb-2);
 }
@@ -591,7 +591,7 @@ img {
 }
 
 .contact ::placeholder {
-  color: var(--first-color-dark);
+  color: var(--first-color-lighten);
   font-family: var(--body-font);
   font-weight: var(--font-medium);
 }
@@ -610,13 +610,20 @@ img {
 
 .contact__subtitle {
   font-size: var(--h3-font-size);
-  color: var(--first-color);
+  color: var(--first-color-lighten);
   margin-bottom: var(--mb-1);
 }
 
 .contact__text {
   display: block;
+  color: var(--first-color-lighten);
   padding-left: 1rem;
+}
+
+.contact__info-icon {
+  font-size: 1.5rem;
+  color: var(--first-color-lighten);
+  margin-right: var(--mb-4);
 }
 
 /* ===== FOOTER =====*/
