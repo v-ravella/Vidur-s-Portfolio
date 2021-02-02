@@ -620,11 +620,7 @@ img {
   padding-left: 1rem;
 }
 
-.contact__info-icon {
-  font-size: 1.5rem;
-  color: var(--first-color-lighten);
-  margin-right: var(--mb-4);
-}
+
 
 /* ===== FOOTER =====*/
 .footer {
